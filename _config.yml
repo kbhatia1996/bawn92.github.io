@@ -2,4 +2,4 @@ name: Gearoid O'Connor
 markdown: redcarpet
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-cayman
